@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicacion de Prueba</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">La musica es parte de tu vida</string>
+    <string name="welcome_footer">Forma parte de la comunidad</string>
+</resources>
